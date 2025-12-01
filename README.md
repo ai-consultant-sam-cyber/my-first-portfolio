@@ -17,7 +17,23 @@ README.md
 - データ分析・可視化
 
 ## 制作実績
-準備中...
+### 1. 業務自動化ツール
+📁 [コードを見る](google-apps-script/automation.gs)
+
+**課題**
+- 収集に時間を取られた
+
+**解決策**
+- Google Apps Scriptで自動化
+- AI(claude）を活用して効率的に開発
+
+**成果**
+- ⏱️ 作業時間を大幅削減
+- ✅ ミスをゼロ化
+
+**使用技術**
+- Google Apps Script
+- Googleスプレッドシート
 
 ## 連絡先
 お問い合わせはこちら：[ makesensejp@gmail.com ]
